@@ -12,4 +12,4 @@ Distributing restricted static content through CloudFront using signed cookies.
 - Install aws sdk for php using: `composer install`
 
 * See the write up here:
-  https://dev.to/muhammad_ahmad_khan/distributing-restricted-static-content-through-cloudfront-using-signed-cookies-411m
+  https://dev.to/muhammad_ahmad_khan/distributing-restricted-static-content-through-cloudfront-using-signed-cookies-20hp
