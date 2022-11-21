@@ -1,0 +1,7 @@
+{
+    "name": "mak/cloudfront-signed-cookies-demo",
+    "description": "cloudfront-signed-cookies-demo",
+    "require": {
+        "aws/aws-sdk-php": "^3.246"
+    }
+}
